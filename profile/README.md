@@ -14,3 +14,6 @@
 - [Applingo FlashCards iOS app](https://github.com/Mad-Pixels/applingo-ios)
 - [Terminal WiFi Manager](https://github.com/Mad-Pixels/wf)
 - [A1602 stat monitor](https://github.com/Mad-Pixels/Graphino-1624)
+
+## Other
+- [CI/CD workflows and actions templates](https://github.com/Mad-Pixels/github-workflows)
