@@ -6,7 +6,7 @@
         src="/profile/banner.png">
 </picture>
 
-## Cli
+## Cli-applications
 - [Markdown to Tg/HTML](https://github.com/Mad-Pixels/postify)
 - [GoLang codegen for DynamoDB](https://github.com/Mad-Pixels/go-dyno)
 
