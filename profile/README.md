@@ -17,4 +17,3 @@
 
 ## Other
 - [CI/CD workflows and actions templates](https://github.com/Mad-Pixels/github-workflows)
-- [Make AWS SDK Retry simple](https://github.com/Mad-Pixels/awsretry)
